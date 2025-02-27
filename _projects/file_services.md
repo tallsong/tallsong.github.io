@@ -1,9 +1,10 @@
 ---
-title: 'views on education'
-date: 2022-10-19
-permalink: /posts/2022/10/views-on-education/
+title: 'file services'
+date: 2022-6-19
+permalink: /posts/2022/6/fileservices/
 tags:
-  - English
+  - Python
+  - Flask
 ---
 
 # Background

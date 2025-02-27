@@ -1,9 +1,10 @@
 ---
-title: 'views on education'
-date: 2022-10-19
-permalink: /posts/2022/10/views-on-education/
+title: 'distributed storate system'
+date: 2021-10-19
+permalink: /posts/2021/10/distributed_storate_system/
 tags:
-  - English
+  - C++
+  - CEPH
 ---
 
 # Background

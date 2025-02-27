@@ -9,12 +9,12 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+<!-- New style rendering if projects categories are defined -->
 {% if site.project_category %}
   {% for category in site.project_category  %}
     {% assign title_shown = false %}
-    {% for post in site.projects reversed %}
-      {% if post.category != category[0] %}
+    {% for project in site.projects reversed %}
+      {% if project.category != category[0] %}
         {% continue %}
       {% endif %}
       {% unless title_shown %}
@@ -25,7 +25,7 @@ author_profile: true
     {% endfor %}
   {% endfor %}
 {% else %}
-  {% for post in site.projects reversed %}
+  {% for project in site.projects reversed %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}

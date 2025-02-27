@@ -1,9 +1,10 @@
 ---
-title: 'views on education'
-date: 2022-10-19
-permalink: /posts/2022/10/views-on-education/
+title: 'security manangement'
+date: 2021-3-19
+permalink: /prject/2021/3/security manangement/
 tags:
-  - English
+  - C++
+  - Qt
 ---
 
 # Background

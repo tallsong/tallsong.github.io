@@ -1,9 +1,9 @@
 ---
-title: 'views on education'
-date: 2022-10-19
-permalink: /posts/2022/10/views-on-education/
+title: 'SQL parser'
+date: 2022-8-9
+permalink: /projects/2022/8/sql_parser/
 tags:
-  - English
+  - Python
 ---
 
 # Background
