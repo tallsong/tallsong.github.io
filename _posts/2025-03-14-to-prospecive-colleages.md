@@ -1,7 +1,7 @@
 ---
-title: 'ideal job'
+title: 'to prospective colleages'
 date: 2025-3-14
-permalink: /posts/2025/3/ideal-job/
+permalink: /posts/2025/3/to-prospective-colleages/
 tags:
   - career
 ---
@@ -24,7 +24,7 @@ I thrive in efficient work environments and actively seek ways to optimize my wo
 4. I analyze patterns and root causes
 5. I share or ask learnings with the team
 
-## how to communite
+## Communication Style
 
 I prioritize clear, polite, and efficient communication. I believe in being:
 - Direct but respectful
