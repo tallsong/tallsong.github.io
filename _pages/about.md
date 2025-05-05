@@ -11,10 +11,7 @@ redirect_from:
 
 
 
-
-Cedar is a Software Engineer with 5 years of experience in architecting and delivering robust software solutions. Adept at utilizing C++ and Python to build efficient systems and perform data operations in MySQL. Skilled in creating distributed storage solutions, improving SDKs for big data platforms, and streamlining compilers and industrial software.
-
-
+Gaosong is a software engineer with 5 years of experience specializing in optimizing Large Language Model (LLM) performance and developing robust software solutions (Python, C++). Proven ability in designing and implementing LLM inference API services, leveraging tools like vLLM and low-bit quantization to enhance throughput and reduce memory usage. Proficient in GPU architecture, CUDA programming, PyTorch, and experienced with distributed systems and big data platforms.
 
 ## For Recruiters and Prospective Colleagues
 
