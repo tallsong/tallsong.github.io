@@ -27,7 +27,7 @@ author:
   pronouns         : "they" 
   bio              : "software engineer"
   location         : "Berlin, Germany"
-  employer         : "Runjian Co"
+  # employer         : "Runjian Co"
   uri              : # URL
   email            : "a1249812431@gmail.com" 
 
