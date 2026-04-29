@@ -23,10 +23,10 @@ repository               : "tallsong/tallsong.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "CHEN GAOSONG(Cedar)"
+  name             : "CHEN GAOSONG"
   pronouns         : "they" 
-  bio              : "software engineer at Runjian Co, expert in software development"
-  location         : "Beijing, China"
+  bio              : "software engineer"
+  location         : "Berlin, Germany"
   employer         : "Runjian Co"
   uri              : # URL
   email            : "a1249812431@gmail.com" 
