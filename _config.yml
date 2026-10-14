@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Cedar's personal website"
+title                    : "Gaosong's personal website"
 title_separator          : "-"
-name                     : &name "Chen Gaosong"
-description              : &description "software engineer at Runjian Co"
+name                     : &name "Gaosong Chen"
+description              : &description "Personal space of Gaosong — Software engineer in Berlin, writing about life, learning, and technology."
 url                      : https://tallsong.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tallsong/tallsong.github.io"
@@ -23,11 +23,11 @@ repository               : "tallsong/tallsong.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "CHEN GAOSONG"
-  pronouns         : "they" 
-  bio              : "software engineer"
+  name             : "Gaoosng Chen"
+  pronouns         : "he/him"
+  bio              : "Software engineer in Berlin · Curious thinker · Life explorer"
   location         : "Berlin, Germany"
-  # employer         : "Runjian Co"
+  employer         : "Strabag"
   uri              : # URL
   email            : "cedar.g.chen@gmail.com" 
 
