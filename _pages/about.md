@@ -50,11 +50,8 @@ If you're in Berlin or passing through, I'm always happy to grab a cup of coffee
     <a href="mailto:cedar.g.chen@gmail.com" class="btn-pill btn-pill--primary">
       <i class="fa fa-envelope" aria-hidden="true"></i> Email Me
     </a>
-    <a href="https://www.linkedin.com/in/cedarchen" target="_blank" rel="noopener noreferrer" class="btn-pill btn-pill--secondary">
-      <i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn
-    </a>
-    <a href="https://t.me/cedarchen" target="_blank" rel="noopener noreferrer" class="btn-pill btn-pill--secondary">
-      <i class="fab fa-telegram" aria-hidden="true"></i> Telegram
+    <a href="imessage:cedar.g.chen@gmail.com" class="btn-pill btn-pill--secondary">
+      <i class="fab fa-apple" aria-hidden="true"></i> iMessage
     </a>
   </div>
 </div>
