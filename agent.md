@@ -1,7 +1,7 @@
 # Agent Context & Guidelines for tallsong.github.io
 
 ## 1. Overview & Author Profile
-- **Owner**: Chen Gaosong (Cedar) — Software Engineer based in Berlin, Germany.
+- **Owner**: Gaosong Chen (Cedar) — Software Engineer based in Berlin, Germany.
 - **Specialization**: Large Language Model (LLM) inference optimization, GPU architecture/CUDA, vLLM, distributed systems, Python, and C++.
 - **Platform**: Jekyll (AcademicPages theme), hosted on GitHub Pages, written in Markdown.
 - **Repository Role**: Serves as the central hub for professional portfolio, technical deep dives, and personal thoughts.
