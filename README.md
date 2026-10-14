@@ -12,6 +12,7 @@ container build -t jekyll-site .
 container run --rm -it \
   --name jekyll-site \
   -p 4000:4000 \
+  -p 35729:35729 \
   -v "$(pwd)":/usr/src/app \
   -e JEKYLL_ENV=docker \
   jekyll-site
