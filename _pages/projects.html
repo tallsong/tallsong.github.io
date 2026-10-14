@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: "Projects"
+title: "Projects & Engineering"
 permalink: /projects/
 author_profile: true
 ---
 
-
-
 {% include base_path %}
+
+<p class="page__lead" style="color: #64748b; margin-bottom: 2rem;">
+  A selection of engineering projects, systems architecture, and AI case studies built with Python, C++, and cloud platforms.
+</p>
 
 <!-- New style rendering if projects categories are defined -->
 {% if site.project_category %}
@@ -17,7 +19,7 @@ author_profile: true
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
-      {% unless title_shown %a }
+      {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}

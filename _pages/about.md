@@ -8,11 +8,15 @@ redirect_from:
 
 ---
 
+<div class="status-badge">
+  <span class="status-dot"></span> Based in Berlin &middot; Always open for coffee &amp; friendly chats
+</div>
+
 Welcome to my personal corner on the internet! 
 
-I'm a software engineer originally from China, currently living and working in **Berlin, Germany**. 
+I'm a software engineer living in **Berlin, Germany**. By day, I work with Artificial Intelligence and systems—helping modern AI models run faster, leaner, and more reliably. 
 
-By day, I work on Artificial Intelligence—specifically, making modern AI systems run faster and more efficiently. Outside of work, I am a curious thinker, language learner, and explorer of everyday life.
+Outside of code, I am a curious thinker, a lifelong language learner, and an observer of everyday life. This space is where I share my personal essays, reflections on growth and communication, and technical work.
 
 ---
 
@@ -23,14 +27,34 @@ By day, I work on Artificial Intelligence—specifically, making modern AI syste
 ---
 
 ## ☕ Things We Can Chat About
-If we met offline or you're also in Berlin, here are a few topics I always enjoy discussing:
-- **Language & Culture**: My 10+ year journey of learning English, adapting to life abroad, and learning German.
-- **Thinking & Communication**: How we express ideas clearly, build confidence, and understand each other better.
-- **AI for Everyday People**: Demystifying what AI can (and can't) actually do, minus the technical jargon.
-- **Outdoor & Life in Berlin**: Good food, walking routes, or grabbing a cup of coffee.
+
+Whether we met offline, at a meetup, or you just stumbled across this page, here are a few topics I always light up talking about:
+
+<div class="topics-wrap">
+  <span class="topic-pill">🌍 Expat life &amp; living in Berlin</span>
+  <span class="topic-pill">🗣️ The honest journey of learning languages</span>
+  <span class="topic-pill">💬 Communication &amp; expressing ideas clearly</span>
+  <span class="topic-pill">🤖 Demystifying AI in plain language</span>
+  <span class="topic-pill">🚶‍♂️ Urban walks, cycling &amp; good coffee</span>
+  <span class="topic-pill">🚀 Systems engineering &amp; software design</span>
+</div>
+
+If you're in Berlin or passing through, I'm always happy to grab a cup of coffee and share stories.
 
 ---
 
-## 📬 Say Hello!
-I love meeting new people. Feel free to connect via:
-- **Email**: [cedar.g.chen@gmail.com](mailto:cedar.g.chen@gmail.com)
+<div class="contact-banner">
+  <h3 style="margin-top: 0; color: #0f172a;">📬 Say Hello!</h3>
+  <p>Whether you have a thought on one of my posts, a cafe recommendation, or just want to connect:</p>
+  <div class="action-buttons">
+    <a href="mailto:cedar.g.chen@gmail.com" class="btn-pill btn-pill--primary">
+      <i class="fa fa-envelope" aria-hidden="true"></i> Email Me
+    </a>
+    <a href="https://www.linkedin.com/in/cedarchen" target="_blank" rel="noopener noreferrer" class="btn-pill btn-pill--secondary">
+      <i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn
+    </a>
+    <a href="https://t.me/cedarchen" target="_blank" rel="noopener noreferrer" class="btn-pill btn-pill--secondary">
+      <i class="fab fa-telegram" aria-hidden="true"></i> Telegram
+    </a>
+  </div>
+</div>
