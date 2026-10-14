@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "About me"
-excerpt: ""
+title: "Hi, I'm Gaosong 👋"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,19 +8,29 @@ redirect_from:
 
 ---
 
+Welcome to my personal corner on the internet! 
 
+I'm a software engineer originally from China, currently living and working in **Berlin, Germany**. 
 
-Gaosong is a software engineer with 5 years of experience specializing in optimizing Large Language Model (LLM) performance and developing robust software solutions (Python, C++). Proven ability in designing and implementing LLM inference API services, leveraging tools like vLLM and low-bit quantization to enhance throughput and reduce memory usage. Proficient in GPU architecture, CUDA programming, PyTorch, and experienced with distributed systems and big data platforms.
+By day, I work on Artificial Intelligence—specifically, making modern AI systems run faster and more efficiently. Outside of work, I am a curious thinker, language learner, and explorer of everyday life.
 
-## For Recruiters and Prospective Colleagues
+---
 
-To learn more about my:
-- Problem-Solving Approach
-- Communication Style
-- Preferred Work Environment
-- Career Goals and Skills
+## 🧭 Explore this Site
+- 📖 **[Personal Stories & Reflections](/year-archive/)**: My thoughts on learning English, communication, education, and career growth.
+- 💻 **[Technical Projects & CV](/projects/)**: For fellow engineers and recruiters interested in my technical background (LLM optimization, systems, C++/Python).
 
-Please read [this post](https://tallsong.github.io/posts/2025/3/to-prospective-colleages/)
+---
 
+## ☕ Things We Can Chat About
+If we met offline or you're also in Berlin, here are a few topics I always enjoy discussing:
+- **Language & Culture**: My 10+ year journey of learning English, adapting to life abroad, and learning German.
+- **Thinking & Communication**: How we express ideas clearly, build confidence, and understand each other better.
+- **AI for Everyday People**: Demystifying what AI can (and can't) actually do, minus the technical jargon.
+- **Outdoor & Life in Berlin**: Good food, walking routes, or grabbing a cup of coffee.
 
+---
 
+## 📬 Say Hello!
+I love meeting new people. Feel free to connect via:
+- **Email**: [cedar.g.chen@gmail.com](mailto:cedar.g.chen@gmail.com)
