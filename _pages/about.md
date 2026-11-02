@@ -53,5 +53,8 @@ If you're in Berlin or passing through, I'm always happy to grab a cup of coffee
     <a href="imessage:cedar.g.chen@gmail.com" class="btn-pill btn-pill--secondary">
       <i class="fab fa-apple" aria-hidden="true"></i> iMessage
     </a>
+    <a href="https://wa.me/cedarchen?s=p" target="_blank" rel="noopener noreferrer" class="btn-pill btn-pill--secondary">
+      <i class="fab fa-whatsapp" aria-hidden="true"></i> WhatsApp
+    </a>
   </div>
 </div>
