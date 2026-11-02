@@ -178,6 +178,7 @@ exclude:
   - LICENSE
   - local
   - log
+  - _projects/template.md
   - node_modules
   - package.json*
   - Rakefile
@@ -302,6 +303,13 @@ defaults:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - if-function
+    - global-builtin
+    - color-functions
+    - slash-div
 
 
 # Outputting
